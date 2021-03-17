@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm DarekaSama
 
-### Edutiant en Licence pro Dim et Animateur BAFA pendant les vacances scolaires
+### Edudiant en Licence pro Dim et Animateur BAFA pendant les vacances scolaires
 
 <a href="https://github.com/DarekaSama">
   <img align="left" src="https://komarev.com/ghpvc/?username=DarekaSama" alt="DarekaSama" />
@@ -20,8 +20,9 @@
 - 👨‍💻 All of my public speaking is available at [my talks page](https://davidl.fr/talks).
 - 👯 I’m looking to collaborate on a potential podcast.
 - 💬 Ask me about **React, React Native,** and **Automation** <a href="https://twitter.com/flexbox_" target="_blank"> on Twitter!</a>
-<!--
+
 <hr />
+
 <!--
 ### Most Recent Blogs posts
 -->
@@ -33,7 +34,7 @@
 - [What I learned at React Finland Workshop with Nik Graf](https://medium.com/react-finland/what-i-learned-at-react-finland-workshop-with-nik-graf-99c37dc1d8c1?source=rss-cc5b33b54088------2)
 - [Clean up macos for a productive setup following Marie Kondo advices](https://blog.usejournal.com/kondo-your-mac-b2443f2ebc2f?source=rss-cc5b33b54088------2)
 <!-- MEDIUM:END -->
-<!--
+
 ### Tools I use
 <!--
 <p align="left">
