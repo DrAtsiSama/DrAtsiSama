@@ -8,9 +8,8 @@
 <a href="https://www.linkedin.com/in/scherierremy">
   <img align="left" alt="Scherier Rémy | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<!--
-<a href="https://instagram.com/chti.yala">
-  <img alt="David Leuliette | Instagram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/synesios_alchimiste/">
+  <img alt="DarekaSama | Instagram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <hr />
@@ -27,7 +26,7 @@
 <hr />
 
 ### Most Recent Blogs posts
--->
+
 <!-- MEDIUM:START -->
 <!--
 - [How I wrote and published The Road to React Native book](https://medium.com/@flexbox/how-i-wrote-and-published-the-road-to-react-native-book-7ca80fa2fd88?source=rss-cc5b33b54088------2)
@@ -38,9 +37,6 @@
 <!-- MEDIUM:END -->
 
 ### Tools I use
-![DarekaSama's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarekaSama&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarekaSama&layout=compact)](https://github.com/DarekaSama/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarekaSama&layout=Demo)](https://github.com/DarekaSama/github-readme-stats)
 <!--
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
@@ -65,24 +61,8 @@
 </p>
 <!--
 <p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</p>
-
-<a href="https://github.com/DarekaSama">
-  <img src="https://github-readme-stats.vercel.app/api?username=darekaSama&show_icons=true&theme=buefy" alt="DarekaSama" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarekaSama&layout=compact&hide=html&theme=buefy" alt="DarekaSama" />
-</a>
-
-
-<!--
-**DarekaSama/DarekaSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-Here are some ideas to get you started:
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+![DarekaSama's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarekaSama&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarekaSama&layout=compact)](https://github.com/DarekaSama/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarekaSama&layout=Demo)](https://github.com/DarekaSama/github-readme-stats)
