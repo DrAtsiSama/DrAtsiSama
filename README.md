@@ -1,10 +1,8 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm DarekaSama
+# Salutation <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, je suis DarekaSama <a href="https://github.com/DarekaSama"><img align="right" src="https://komarev.com/ghpvc/?username=DarekaSama" alt="DarekaSama" /></p>
 
 ### Edudiant en Licence pro Dim et Animateur BAFA pendant les vacances scolaires
 
-<a href="https://github.com/DarekaSama">
-  <img align="left" src="https://komarev.com/ghpvc/?username=DarekaSama" alt="DarekaSama" />
-</p>
+
 <a href="https://www.linkedin.com/in/scherierremy">
   <img align="left" alt="Scherier Rémy | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
