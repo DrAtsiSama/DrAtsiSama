@@ -1,32 +1,18 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm DarekaSama
-<!--
-### Freelance front-end developer and automation nerd
-<!--
+
+### Edutiant en Licence pro Dim et Animateur BAFA pendant les vacances scolaires
+
 <a href="https://github.com/DarekaSama">
-  <img align="left" src="https://komarev.com/ghpvc/?username=flexbox" alt="flexbox" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=DarekaSama" alt="DarekaSama" />
 </p>
-<a href="https://twitter.com/flexbox_">
-  <img align="left" alt="David Leuliette | Twitter" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.linkedin.com/in/scherierremy">
+  <img align="left" alt="Scherier Rémy | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://dev.to/flexbox">
-  <img align="left" alt="David Leuliette | DEV TO" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a href="https://medium.com/@flexbox">
-  <img align="left" alt="David Leuliette | Medium" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.linkedin.com/in/david-leuliette">
-  <img align="left" alt="David Leuliette | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.producthunt.com/@flexbox">
-  <img align="left" alt="David Leuliette | Product Hunt" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/producthunt.svg" />
-</a>
-<a href="https://www.figma.com/@flexbox">
-  <img align="left" alt="David Leuliette | Figma" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
-</a>
+<!--
 <a href="https://instagram.com/chti.yala">
   <img alt="David Leuliette | Instagram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<!--
+
 <hr />
 <!--
 - 🔭 I’m working on **cross-platform applications with React Native**.
@@ -73,10 +59,10 @@
 </p>
 <!--
 <p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</p>
-<!--
-<a href="https://github.com/flexbox">
-  <img src="https://github-readme-stats.vercel.app/api?username=flexbox&show_icons=true&theme=buefy" alt="flexbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexbox&layout=compact&hide=html&theme=buefy" alt="flexbox" />
+
+<a href="https://github.com/DarekaSama">
+  <img src="https://github-readme-stats.vercel.app/api?username=darekaSama&show_icons=true&theme=buefy" alt="DarekaSama" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarekaSama&layout=compact&hide=html&theme=buefy" alt="DarekaSama" />
 </a>
 
 
