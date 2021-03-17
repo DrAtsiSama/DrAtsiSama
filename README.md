@@ -1,8 +1,8 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm flexbox
-
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm DarekaSama
+<!--
 ### Freelance front-end developer and automation nerd
 
-<a href="https://github.com/flexbox">
+<a href="https://github.com/DarekaSama">
   <img align="left" src="https://komarev.com/ghpvc/?username=flexbox" alt="flexbox" />
 </p>
 <a href="https://twitter.com/flexbox_">
@@ -79,7 +79,7 @@
 </a>
 
 
-<!--
+
 **DarekaSama/DarekaSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
