@@ -26,7 +26,6 @@
 
 <hr />
 
-<!--
 ### Most Recent Blogs posts
 -->
 <!-- MEDIUM:START -->
