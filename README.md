@@ -23,7 +23,7 @@
 
 <hr />
 
-### Most Recent Blogs posts
+### Projets les plus récents
 
 <!-- MEDIUM:START -->
 <!--
@@ -34,7 +34,7 @@
 - [Clean up macos for a productive setup following Marie Kondo advices](https://blog.usejournal.com/kondo-your-mac-b2443f2ebc2f?source=rss-cc5b33b54088------2)
 <!-- MEDIUM:END -->
 
-### Tools I use
+###  Outils utilisés
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
