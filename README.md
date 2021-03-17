@@ -38,6 +38,11 @@
 <!-- MEDIUM:END -->
 
 ### Tools I use
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarekaSama&repo=github-readme-stats)](https://github.com/DarekaSama/github-readme-stats)
+![DarekaSama's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarekaSama&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarekaSama&layout=compact)](https://github.com/DarekaSama/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarekaSama&layout=Demo)](https://github.com/DarekaSama/github-readme-stats)
+[![DarekaSama's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DarekaSama)](https://github.com/DarekaSama/github-readme-stats)
 <!--
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
