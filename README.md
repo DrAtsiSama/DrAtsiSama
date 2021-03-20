@@ -25,14 +25,14 @@
 
 ### Projets les plus récents
 
-<!-- MEDIUM:START -->
-<!--
-- [How I wrote and published The Road to React Native book](https://medium.com/@flexbox/how-i-wrote-and-published-the-road-to-react-native-book-7ca80fa2fd88?source=rss-cc5b33b54088------2)
-- [My Growth Hack Checklist for Spotify](https://medium.com/@flexbox/how-i-got-more-than-4000-followers-on-spotify-ae4bcb6d6e73?source=rss-cc5b33b54088------2)
-- [How to build DIY ergonomic desk for less than 99€](https://medium.com/@flexbox/how-to-build-diy-ergonomic-desk-for-less-than-99-82fa51a0d98e?source=rss-cc5b33b54088------2)
-- [What I learned at React Finland Workshop with Nik Graf](https://medium.com/react-finland/what-i-learned-at-react-finland-workshop-with-nik-graf-99c37dc1d8c1?source=rss-cc5b33b54088------2)
-- [Clean up macos for a productive setup following Marie Kondo advices](https://blog.usejournal.com/kondo-your-mac-b2443f2ebc2f?source=rss-cc5b33b54088------2)
-<!-- MEDIUM:END -->
+<!-- Projet:START -->
+
+- [Création d'un menu circulaire animé en Flutter](https://github.com/DarekaSama/GameAndPrograming/tree/main/Flutter/AnimatedCircularMenu)
+- [Création d'un menu déroulant circulaire en Flutter](https://github.com/DarekaSama/GameAndPrograming/tree/main/Flutter/NavBarSpinCircle)
+- [Découverte du Réact Formation](https://github.com/DarekaSama/GameAndPrograming/tree/main/React/Cours)
+- [Création de petit jeu avec LÖVE en LUA](https://github.com/DarekaSama/GameAndPrograming/tree/main/L%C3%96VE-LUA)
+- [Création d'une animation BAFA](https://github.com/DarekaSama/GameAndPrograming/tree/main/EscapeGame)
+<!-- Projet:END -->
 
 ###  Outils utilisés
 
