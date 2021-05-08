@@ -33,7 +33,7 @@
 - [Création de petit jeu avec LÖVE en LUA](https://github.com/DarekaSama/GameAndPrograming/tree/main/L%C3%96VE-LUA)
 - [Création d'une animation BAFA](https://github.com/DarekaSama/GameAndPrograming/tree/main/EscapeGame)
 <!-- Projet:END -->
-
+***
 ###  Outils utilisés
 
 <p align="left">
