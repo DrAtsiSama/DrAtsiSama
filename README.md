@@ -53,6 +53,7 @@
 ![DarekaSama's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarekaSama&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarekaSama&layout=compact)](https://github.com/DarekaSama/github-readme-stats)
 
+***
 
 ###  Me soutenir
 Vous pouvez me soutenir en m'offrant un café
