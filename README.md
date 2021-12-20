@@ -26,7 +26,7 @@
 ### Projets les plus récents
 
 <!-- Projet:START -->
-
+- [Création d'un bot Communautaire](https://github.com/DarekaSama/Opal_BotDiscord)
 - [Création d'un menu circulaire animé en Flutter](https://github.com/DarekaSama/GameAndPrograming/tree/main/Flutter/AnimatedCircularMenu)
 - [Création d'un menu déroulant circulaire en Flutter](https://github.com/DarekaSama/GameAndPrograming/tree/main/Flutter/NavBarSpinCircle)
 - [Découverte du Réact Formation](https://github.com/DarekaSama/GameAndPrograming/tree/main/React/Cours)
