@@ -1,6 +1,6 @@
-# Bienvenue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, je me présente je suis DarekaSama <a href="https://github.com/DarekaSama"><img align="right" src="https://komarev.com/ghpvc/?username=DarekaSama&style=plastic&color=blueviolet&label=Nombre+de+visite+du+profil+:" alt="DarekaSama" /></p>
+# Bienvenue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, je me présente je suis DarekaSama  aussi connu sous le pseudo de Dr_AtsiSama.<a href="https://github.com/DarekaSama"><img align="right" src="https://komarev.com/ghpvc/?username=DarekaSama&style=plastic&color=blueviolet&label=Nombre+de+visite+du+profil+:" alt="DarekaSama" /></p>
 
-### Et je suis édudiant en Licence pro Dim et j'enfile la cape d'Animateur BAFA durant les vacances scolaires
+### Je suis édudiant en 3 ème année de licence informatique, j'enfile la cape d'Animateur BAFA durant les vacances scolaires mais égalemment développeur Web en alternance durant mes études.
 
 
 <a href="https://www.linkedin.com/in/scherierremy">
