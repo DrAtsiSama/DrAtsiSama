@@ -1,8 +1,17 @@
 # Bienvenue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, je me présente je suis DarekaSama  aussi connu sous le pseudo de Dr_AtsiSama.<a href="https://github.com/DarekaSama"><img align="right" src="https://komarev.com/ghpvc/?username=DarekaSama&style=plastic&color=blueviolet&label=Nombre+de+visite+du+profil+:" alt="DarekaSama" /></p>
-
+<p align="center"><img src="https://profile-counter.glitch.me/{DarekaSama}/count.svg" alt="DarekaSama :: Visitor's Count" /></p>
 ### Je suis édudiant en 3 ème année de licence informatique, j'enfile la cape d'Animateur BAFA durant les vacances scolaires mais égalemment développeur Web en alternance durant mes études.
-
-
+<!--
+https://stackshare.io/
+https://medium.com/
+https://dev.to/
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+https://devicon.dev/
+ 	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+https://dev.to/envoy_/150-badges-for-github-pnk
+-->
+## Contact
 <a href="https://www.linkedin.com/in/scherierremy">
   <img align="left" alt="Scherier Rémy | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -11,17 +20,6 @@
 </a>
 
 <hr />
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ### Projets les plus récents
 
@@ -73,6 +71,8 @@ tableau (ajouter icons)
 -->
 | Back | Front | Frameworks | Container and orchestrors | Game engines |
 |---|---|---|---|---|
-|   |   |   |   |   |
+| Java Spring  |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>   |   |   |  unity |
+|   |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>   |   |   | game maker studio 2  |
+|   |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>   |   |   |  Unreal engine |
 |   |   |   |   |   |
 |   |   |   |   |   |
