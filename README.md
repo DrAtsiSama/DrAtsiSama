@@ -64,7 +64,13 @@ Vous pouvez me soutenir en m'offrant un café
 ou encore en mettant n'hésitant pas a suivre ou a mettre une étoile afin de partager les projets que vous aimez ou qui vous plaisent de voir l'évolution
 
 ### En cours de construction 
-tableau <!--https://www.dio.me/articles/tutorial-criando-um-readme-bonitao-para-o-seu-github-->
+tableau (ajouter icons)
+<!--
+  https://www.dio.me/articles/tutorial-criando-um-readme-bonitao-para-o-seu-github
+  https://terminalroot.com.br/2021/07/customize-a-pagina-inicial-do-seu-github.html
+  https://github.com/rafaballerini/PerfilGithub
+  https://dev.to/tupaschoal/como-criar-um-perfil-incrivel-no-github-2k5f
+-->
 | Back | Front | Frameworks | Container and orchestrors | Game engines |
 |---|---|---|---|---|
 |   |   |   |   |   |
