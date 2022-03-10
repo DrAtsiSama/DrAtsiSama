@@ -1,5 +1,7 @@
-# Bienvenue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, je me présente je suis DarekaSama  aussi connu sous le pseudo de Dr_AtsiSama.<a href="https://github.com/DarekaSama"><img align="right" src="https://komarev.com/ghpvc/?username=DarekaSama&style=plastic&color=blueviolet&label=Nombre+de+visite+du+profil+:" alt="DarekaSama" /></p>
-<p align="center"><img src="https://profile-counter.glitch.me/{DarekaSama}/count.svg" alt="DarekaSama :: Visitor's Count" /></p>
+# Bienvenue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, je me présente je suis DarekaSama  aussi connu sous le pseudo de Dr_AtsiSama.<a href="https://github.com/DarekaSama"><img align="right" src="https://komarev.com/ghpvc/?username=DarekaSama&style=plastic&color=blueviolet&label=Nombre+de+visite+du+profil+:" alt="DarekaSama" />
+ <p align="center"><img src="https://profile-counter.glitch.me/{DarekaSama}/count.svg" alt="DarekaSama :: Visitor's Count" /></p></p>
+<hr />
+ 
 ### Je suis édudiant en 3 ème année de licence informatique, j'enfile la cape d'Animateur BAFA durant les vacances scolaires mais égalemment développeur Web en alternance durant mes études.
 <!--
 https://stackshare.io/
@@ -11,7 +13,9 @@ https://devicon.dev/
  	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 https://dev.to/envoy_/150-badges-for-github-pnk
 -->
+
 ## Contact
+
 <a href="https://www.linkedin.com/in/scherierremy">
   <img align="left" alt="Scherier Rémy | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
