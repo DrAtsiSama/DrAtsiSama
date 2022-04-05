@@ -1,7 +1,7 @@
 # Bienvenue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, je me présente je suis DarekaSama  aussi connu sous le pseudo de Dr_AtsiSama.<a href="https://github.com/DarekaSama"><img align="right" src="https://komarev.com/ghpvc/?username=DarekaSama&style=plastic&color=blueviolet&label=Nombre+de+visite+du+profil+:" alt="DarekaSama" />
  <p align="center"><img src="https://profile-counter.glitch.me/{DarekaSama}/count.svg" alt="DarekaSama :: Visitor's Count" /></p></p>
 <hr />
- 
+
 ### Je suis édudiant en 3 ème année de licence informatique, j'enfile la cape d'Animateur BAFA durant les vacances scolaires mais égalemment développeur Web en alternance durant mes études.
 <!--
 https://stackshare.io/
@@ -13,7 +13,7 @@ https://devicon.dev/
  	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 https://dev.to/envoy_/150-badges-for-github-pnk
 -->
-
+![Example 3](https://raw.githubusercontent.com/DarekaSama/github-profile-header-generator/main/social/examples/example-3.png)
 ## Contact
 
 <a href="https://www.linkedin.com/in/scherierremy">
@@ -37,32 +37,17 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - [Création d'une animation BAFA](https://github.com/DarekaSama/GameAndPrograming/tree/main/EscapeGame)
 <!-- Projet:END -->
 ***
-###  Outils utilisés
+###  Quelques statistiques 
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32"/>
-  <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"alt="Nodejs" width="32" height="32">
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"alt="Vue" width="32" height="32">
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg"alt="Vue" width="32" height="32">
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg"alt="Vue" width="32" height="32">
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg"alt="Vue" width="32" height="32">
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"alt="Vue" width="32" height="32">
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"alt="Vue" width="32" height="32">
-</p>
 <!--
 <p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</p>
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DarekaSama&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DarekaSama&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![DarekaSama's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarekaSama&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarekaSama&layout=compact)](https://github.com/DarekaSama/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DarekaSama&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ***
 
 ###  Me soutenir
@@ -84,6 +69,21 @@ tableau (ajouter icons)
 |---|---|---|---|---|
 | Java Spring  |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>   |   |   |  unity |
 |   |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>   |   |   | game maker studio 2  |
-|   |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>   |   |   |  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="javascript" width="32" height="32"/> |
+|   |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>   |   |   |  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="javascript" width="64" height="64"/> |
 |   |   |   |   |   |
 |   |   |   |   |   |
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32"/>
+  <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"alt="Nodejs" width="32" height="32">
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"alt="Vue" width="32" height="32">
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg"alt="Vue" width="32" height="32">
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg"alt="Vue" width="32" height="32">
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg"alt="Vue" width="32" height="32">
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"alt="Vue" width="32" height="32">
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"alt="Vue" width="32" height="32">
+</p>
