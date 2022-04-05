@@ -47,7 +47,6 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32"/>
   <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"alt="Nodejs" width="32" height="32">
-   <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"alt="Nodejs" width="32" height="32">
   <img  src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"alt="Vue" width="32" height="32">
   <img  src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg"alt="Vue" width="32" height="32">
   <img  src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg"alt="Vue" width="32" height="32">
