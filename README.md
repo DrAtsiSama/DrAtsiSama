@@ -12,8 +12,8 @@ https://dev.to/
 https://devicon.dev/
  	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 https://dev.to/envoy_/150-badges-for-github-pnk
--->
-![Example 3](https://raw.githubusercontent.com/DarekaSama/github-profile-header-generator/main/social/examples/example-3.png)
+
+![Example 3](https://raw.githubusercontent.com/DarekaSama/github-profile-header-generator/main/social/examples/example-3.png) -->
 ## Contact
 
 <a href="https://www.linkedin.com/in/scherierremy">
