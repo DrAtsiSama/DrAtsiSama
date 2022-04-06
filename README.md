@@ -65,25 +65,18 @@ tableau (ajouter icons)
   https://github.com/rafaballerini/PerfilGithub
   https://dev.to/tupaschoal/como-criar-um-perfil-incrivel-no-github-2k5f
 -->
-| Back | Front | Frameworks | Container and orchestrors | Game engines |
-|---|---|---|---|---|
-| Java Spring  |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>   |   |   |  unity |
-|   |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>   |   |   | game maker studio 2  |
-|   |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>   |   |   |  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="javascript" width="64" height="64"/> |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Back | Front | Frameworks | Game engines |
+|---|---|---|---|
+| Java Spring  |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>   |ANGULAR JS|  unity |
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>   |   | game maker studio 2  |
+|Python|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32"/>|REACT JS|  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="javascript" width="64" height="64"/> |
+|PHP|ANGULAR|VUE JS|LÖVE <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" alt="LÖVE" width="32" height="32">|
+|JAVA|   |SPRING|   |
+|C++|<img  src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" alt="discordJS" width="32" height="32">|<img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodeJS" width="64" height="64">|   |
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32"/>
-  <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"alt="Nodejs" width="32" height="32">
   <img  src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"alt="Vue" width="32" height="32">
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg"alt="Vue" width="32" height="32">
   <img  src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg"alt="Vue" width="32" height="32">
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg"alt="Vue" width="32" height="32">
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"alt="Vue" width="32" height="32">
   <img  src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"alt="Vue" width="32" height="32">
 </p>
