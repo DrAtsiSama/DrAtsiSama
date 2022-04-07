@@ -2,7 +2,7 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{DarekaSama}/count.svg" alt="DarekaSama :: Visitor's Count" /></p></p>
 <hr />
 
-### Je suis édudiant en 3 ème année de licence informatique, j'enfile la cape d'Animateur BAFA durant les vacances scolaires mais égalemment développeur Web en alternance durant mes études.
+### Édudiant en 3 ème année de licence informatique, j'enfile la cape d'Animateur BAFA durant les vacances scolaires mais égalemment développeur Web en alternance durant mes études.
 <!--
 https://stackshare.io/
 https://medium.com/
