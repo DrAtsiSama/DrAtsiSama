@@ -1,5 +1,5 @@
-# Bienvenue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, je me présente je suis DarekaSama  aussi connu sous le pseudo de Dr_AtsiSama.<a href="https://github.com/DarekaSama"><img align="right" src="https://komarev.com/ghpvc/?username=DarekaSama&style=plastic&color=blueviolet&label=Nombre+de+visite+du+profil+:" alt="DarekaSama" />
- <p align="center"><img src="https://profile-counter.glitch.me/{DarekaSama}/count.svg" alt="DarekaSama :: Visitor's Count" /></p></p>
+# Bienvenue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, je me présente je suis Dr_AtsiSama.<a href="https://github.com/DrAtsiSama"><img align="right" src="https://komarev.com/ghpvc/?username=DarekaSama&style=plastic&color=blueviolet&label=Nombre+de+visite+du+profil+:" alt="DrAtsiSama" />
+ <p align="center"><img src="https://profile-counter.glitch.me/{DarekaSama}/count.svg" alt="DrAtsiSama :: Visitor's Count" /></p></p>
 <hr />
 
 ### Édudiant en 3 ème année de licence informatique, j'enfile la cape d'Animateur BAFA durant les vacances scolaires mais égalemment développeur Web en alternance durant mes études.
@@ -13,14 +13,14 @@ https://devicon.dev/
  	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 https://dev.to/envoy_/150-badges-for-github-pnk
 
-![Example 3](https://raw.githubusercontent.com/DarekaSama/github-profile-header-generator/main/social/examples/example-3.png) -->
+![Example 3](https://raw.githubusercontent.com/DrAtsiSama/github-profile-header-generator/main/social/examples/example-3.png) -->
 ## Contact
 
 <a href="https://www.linkedin.com/in/scherierremy">
   <img align="left" alt="Scherier Rémy | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/synesios_alchimiste/">
-  <img alt="DarekaSama | Instagram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="DrAtsiSama | Instagram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <hr />
@@ -29,12 +29,12 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 <!-- Projet:START -->
 - [Profil ROOTME (sécurité informatique, hacking, . . .)](https://www.root-me.org/Dr_AtsiSama)
-- [Création d'un bot Communautaire](https://github.com/DarekaSama/Opal_BotDiscord)
-- [Création d'un menu circulaire animé en Flutter](https://github.com/DarekaSama/GameAndPrograming/tree/main/Flutter/AnimatedCircularMenu)
-- [Création d'un menu déroulant circulaire en Flutter](https://github.com/DarekaSama/GameAndPrograming/tree/main/Flutter/NavBarSpinCircle)
-- [Découverte du Réact Formation](https://github.com/DarekaSama/GameAndPrograming/tree/main/React/Cours)
-- [Création de petit jeu avec LÖVE en LUA](https://github.com/DarekaSama/GameAndPrograming/tree/main/L%C3%96VE-LUA)
-- [Création d'une animation BAFA](https://github.com/DarekaSama/GameAndPrograming/tree/main/EscapeGame)
+- [Création d'un bot Communautaire](https://github.com/DrAtsiSama/Opal_BotDiscord)
+- [Création d'un menu circulaire animé en Flutter](https://github.com/DrAtsiSama/GameAndPrograming/tree/main/Flutter/AnimatedCircularMenu)
+- [Création d'un menu déroulant circulaire en Flutter](https://github.com/DrAtsiSama/GameAndPrograming/tree/main/Flutter/NavBarSpinCircle)
+- [Découverte du Réact Formation](https://github.com/DrAtsiSama/GameAndPrograming/tree/main/React/Cours)
+- [Création de petit jeu avec LÖVE en LUA](https://github.com/DrAtsiSama/GameAndPrograming/tree/main/L%C3%96VE-LUA)
+- [Création d'une animation BAFA](https://github.com/DrAtsiSama/GameAndPrograming/tree/main/EscapeGame)
 <!-- Projet:END -->
 ***
 ###  Quelques statistiques 
@@ -43,11 +43,11 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 <p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</p>
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DarekaSama&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DrAtsiSama&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DarekaSama&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![DarekaSama's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarekaSama&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarekaSama&layout=compact)](https://github.com/DarekaSama/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrAtsiSama&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![DrAtsiSama's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrAtsiSama&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrAtsiSama&layout=compact)](https://github.com/DrAtsiSama/github-readme-stats)
 ***
 
 ###  Me soutenir
