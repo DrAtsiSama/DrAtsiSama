@@ -29,6 +29,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ### Projets les plus récents
 
 <!-- Projet:START -->
+- [Calendrier de l'avent AdventOfCode)](https://github.com/DrAtsiSama/AdventOfCode)
 - [Profil ROOTME (sécurité informatique, hacking, . . .)](https://www.root-me.org/Dr_AtsiSama)
 - [Création d'un bot Communautaire](https://github.com/DrAtsiSama/Opal_BotDiscord)
 - [Création d'un menu circulaire animé en Flutter](https://github.com/DrAtsiSama/GameAndPrograming/tree/main/Flutter/AnimatedCircularMenu)
