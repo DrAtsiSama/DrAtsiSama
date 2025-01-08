@@ -67,18 +67,19 @@ tableau (ajouter icons)
   https://github.com/rafaballerini/PerfilGithub
   https://dev.to/tupaschoal/como-criar-um-perfil-incrivel-no-github-2k5f
 -->
-| Back | Front | Frameworks | Game engines |
+
+| **Back-end** | **Front-end** | **Frameworks** | **Game Engines** |
 |---|---|---|---|
-| Java Spring  |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>   |ANGULAR JS|  unity |
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>   |   | game maker studio 2  |
-|Python|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32"/>|REACT JS|  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="javascript" width="64" height="64"/> |
-|PHP|ANGULAR|VUE JS|LÖVE <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" alt="LÖVE" width="32" height="32">|
-|JAVA|   |SPRING|   |
-|C++|<img  src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" alt="discordJS" width="32" height="32">|<img  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodeJS" width="64" height="64">|   |
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"alt="Vue" width="32" height="32">
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg"alt="Vue" width="32" height="32">
-  <img  src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"alt="Vue" width="32" height="32">
-</p>
+| Java Spring  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/> HTML5 | AngularJS | Unity |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/> CSS3 | ReactJS | Game Maker Studio 2 |
+| Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32"/> React | Vue.js | <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="unreal engine" width="64" height="64"/> Unreal Engine |
+| PHP | Angular | Spring Boot | LÖVE <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" alt="lua" width="32" height="32"/> |
+| Java |  | Spring |  |
+| C++ | <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" alt="discordJS" width="32" height="32"/> DiscordJS | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodeJS" width="64" height="64"/> Node.js | |
+
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/> Git <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/> TypeScript <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="32" height="32"/> Dart <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" alt="android studio" width="32" height="32"/> Android Studio <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="32" height="32"/> npm </p>
+
+
+Je suis un développeur passionné par les technologies modernes, les frameworks puissants, et la création d'expériences interactives avec des moteurs de jeux. Mon expertise s'étend de la programmation Back-end avec Spring et Node.js à la conception Front-end avec React et AngularJS, en passant par le développement de jeux vidéo avec Unity et Unreal Engine.
+
+N'hésitez pas à explorer mes projets pour en savoir plus !
