@@ -15,6 +15,19 @@ https://devicon.dev/
 https://dev.to/envoy_/150-badges-for-github-pnk
 
 ![Example 3](https://raw.githubusercontent.com/DrAtsiSama/github-profile-header-generator/main/social/examples/example-3.png) -->
+---
+
+### 🌐 Mes noms de domaine
+
+Voici une liste des noms de domaine que je possède et leur usage actuel ou prévu :
+
+| **Nom de domaine**              | **Usage/Description**                                | **Statut**       |
+|----------------------------------|-----------------------------------------------------|------------------|
+| **[picopuworld.com](http://picopuworld.com)** | Site web pour projets et expérimentations           | En ligne         |
+| **[remyscherier.com](http://remyscherier.com)**             | Portfolio personnel pour mettre en avant mes projets | En cours de construction |
+---
+
+http://picopuworld.com:8080/
 ## Contact
 
 <a href="https://www.linkedin.com/in/scherierremy">
