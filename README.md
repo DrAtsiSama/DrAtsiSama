@@ -23,11 +23,11 @@ Voici une liste des noms de domaine que je possède et leur usage actuel ou pré
 
 | **Nom de domaine**              | **Usage/Description**                                | **Statut**       |
 |----------------------------------|-----------------------------------------------------|------------------|
-| **[picopuworld.com](http://picopuworld.com)** | Site web pour projets et expérimentations           | En ligne         |
-| **[remyscherier.com](http://remyscherier.com)**             | Portfolio personnel pour mettre en avant mes projets | En cours de construction |
+| **[picopuworld.com](http://picopuworld.com)** | Site web pour projets et expérimentations           | Actif         |
+| **[remyscherier.com](http://remyscherier.com)**             | Portfolio personnel pour mettre en avant mes projets | En cours de validation |
 ---
 
-http://picopuworld.com:8080/
+<!--http://picopuworld.com:8080/-->
 ## Contact
 
 <a href="https://www.linkedin.com/in/scherierremy">
