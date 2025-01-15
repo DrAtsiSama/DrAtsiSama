@@ -39,7 +39,15 @@ Voici une liste des noms de domaine que je possède et leur usage actuel ou pré
 
 <hr />
 
-### Projets les plus récents
+### TODO
+
+- [x] Portfolio
+- [ ] Pokedex Monster hunter
+- [ ] Bot Twitch
+- [ ] Bot Discord
+<hr />
+
+###  Projets les plus récents
 
 <!-- Projet:START -->
 - [Calendrier de l'avent AdventOfCode)](https://github.com/DrAtsiSama/AdventOfCode)
