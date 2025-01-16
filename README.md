@@ -74,13 +74,6 @@ Voici une liste des noms de domaine que je possède et leur usage actuel ou pré
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrAtsiSama&layout=compact)](https://github.com/DrAtsiSama/github-readme-stats)
 ***
 
-###  Me soutenir
-Vous pouvez me soutenir en m'offrant un café
-
-<a href="https://www.buymeacoffee.com/DrAtsiSama"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=DrAtsiSama&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
-ou encore en mettant n'hésitant pas a suivre ou a mettre une étoile afin de partager les projets que vous aimez ou qui vous plaisent de voir l'évolution
-
 ### En cours de construction ###
 tableau (ajouter icons)
 <!--
@@ -105,3 +98,11 @@ tableau (ajouter icons)
 Je suis un développeur passionné par les technologies modernes, les frameworks puissants, et la création d'expériences interactives avec des moteurs de jeux. Mon expertise s'étend de la programmation Back-end avec Spring et Node.js à la conception Front-end avec React et AngularJS, en passant par le développement de jeux vidéo avec Unity et Unreal Engine.
 
 N'hésitez pas à explorer mes projets pour en savoir plus !
+
+<hr />
+###  Me soutenir
+Vous pouvez me soutenir en m'offrant un café
+
+<a href="https://www.buymeacoffee.com/DrAtsiSama"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=DrAtsiSama&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+ou encore en mettant n'hésitant pas a suivre ou a mettre une étoile afin de partager les projets que vous aimez ou qui vous plaisent de voir l'évolution
