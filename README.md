@@ -26,7 +26,7 @@ Voici une liste des noms de domaine que je possède et leur usage actuel ou pré
 | **[picopuworld.com](http://picopuworld.com)** | Site web pour projets, jeux  et expérimentations           | Nom de domaine actif         |
 | **[remyscherier.com](http://remyscherier.com:3000/)**             | Portfolio personnel pour mettre en avant mes projets | Actif         |
 ---
-<hr />
+
 <!--http://picopuworld.com:8080/-->
 ## Contact
 
