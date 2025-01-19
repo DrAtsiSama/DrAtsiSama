@@ -29,13 +29,15 @@ Voici une liste des noms de domaine que je possède et leur usage actuel ou pré
 
 <!--http://picopuworld.com:8080/-->
 ## Contact
-
 <a href="https://www.linkedin.com/in/scherierremy">
   <img align="left" alt="Scherier Rémy | LinkdeIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a> 
+
+[Scherier Rémy](https://www.linkedin.com/in/scherierremy)
 <a href="https://www.instagram.com/synesios_alchimiste/">
   <img alt="DrAtsiSama | Instagram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> 
+[Synesios Alchemiste](https://www.instagram.com/synesios_alchimiste/)
 
 <hr />
 
