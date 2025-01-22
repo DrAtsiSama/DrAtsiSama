@@ -69,10 +69,6 @@ Voici une liste des noms de domaine que je possède et leur usage actuel ou pré
 ***
 ###  Quelques statistiques 
 
-<!--
-<p>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</p>
--->
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=DrAtsiSama&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrAtsiSama&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
@@ -82,12 +78,6 @@ Voici une liste des noms de domaine que je possède et leur usage actuel ou pré
 
 ### En cours de construction ###
 tableau (ajouter icons)
-<!--
-  https://www.dio.me/articles/tutorial-criando-um-readme-bonitao-para-o-seu-github
-  https://terminalroot.com.br/2021/07/customize-a-pagina-inicial-do-seu-github.html
-  https://github.com/rafaballerini/PerfilGithub
-  https://dev.to/tupaschoal/como-criar-um-perfil-incrivel-no-github-2k5f
--->
 
 | **Back-end** | **Front-end** | **Frameworks** | **Game Engines** |
 |---|---|---|---|
