@@ -3,7 +3,7 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{DarekaSama}/count.svg" alt="DrAtsiSama :: Visitor's Count" /></p></p>
 <hr />
 
-### Édudiant en Fin de 5 ème année d'informatique pour le titre d'ingénieur, j'enfile la cape d'Animateur BAFA durant les vacances scolaires mais égalemment développeur Web.
+### Édudiant en Fin de 5 ème année d'informatique pour le titre d'ingénieur, j'enfile la cape d'Animateur BAFA durant les vacances scolaires mais égalemment celle de développeur en tout genres .
 <!--
 https://stackshare.io/
 https://medium.com/
