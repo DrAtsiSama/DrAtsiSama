@@ -31,7 +31,7 @@ Je me présente, je suis **__Dr_AtsiSama__**.
 
 ---
 
-### 🌐 Mes noms de domaine
+### 🌐 Liste de mes noms de domaine
 
 Voici une liste des noms de domaine que je possède et leur usage actuel ou prévu :
 
