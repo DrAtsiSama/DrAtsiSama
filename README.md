@@ -66,7 +66,7 @@ Voici une liste des noms de domaine que je possède et leur usage actuel ou pré
 - [x] Portfolio
 - [ ] (todo : déplacer la catégorie jeu + https)
 - [ ] Pokedex Monster Hunter
-- [ ] Bot Twitch (en cours)
+- [ ] Bot Twitch (en cours node,express/Sveltekit)
 - [ ] Bot Discord
 
 ---
