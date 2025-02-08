@@ -61,7 +61,7 @@ Voici une liste des noms de domaine que je possède et leur usage actuel ou pré
 
 ---
 
-### 📝 TODO
+### 📝 TODO Des projets à venir
 
 - [x] Portfolio
 - [ ] (todo : déplacer la catégorie jeu + https)
