@@ -12,7 +12,7 @@ Je me présente, je suis **__Dr_AtsiSama__**.
 
 ### À propos de moi
 
-**Étudiant en fin de 5ème année d'informatique** pour le titre d'ingénieur, j'endosse également la cape d'**Animateur BAFA** durant les vacances scolaires, tout en étant développeur dans divers domaines. 
+**Étudiant en fin de 5ème année d'informatique** pour le titre d'ingénieur, j'endosse également la cape d'**Animateur BAFA** durant les vacances scolaires, tout en étant développeur dans divers domaines.
 
 <!-- 
   Anciennes références et images (commentées) :
