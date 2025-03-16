@@ -3,7 +3,7 @@ Je me présente, je suis **__Dr_AtsiSama__**.
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=DarekaSama&style=plastic&color=blueviolet&label=Nombre+de+visite+du+profil+:" alt="DrAtsiSama">
-</p> 
+</p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/{DarekaSama}/count.svg" alt="DrAtsiSama :: Visitor's Count">
 </p>
