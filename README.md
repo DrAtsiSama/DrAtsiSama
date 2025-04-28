@@ -8,7 +8,7 @@ Je me présente, je suis **__Dr_AtsiSama__**.
   <img src="https://profile-counter.glitch.me/{DarekaSama}/count.svg" alt="DrAtsiSama :: Visitor's Count">
 </p>
  
----
+--- 
 
 ### À propos de moi
 
