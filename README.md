@@ -88,6 +88,11 @@ Voici une liste des noms de domaine que je possède et leur usage actuel ou pré
 
 ---
 
+### 🚀 Projets/Evenements récents
+- [Cyberthon SNCF](https://www.twitch.tv/sncfgaming)
+
+---
+
 ### 📊 Quelques statistiques
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DrAtsiSama&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
