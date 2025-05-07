@@ -69,6 +69,8 @@ Voici une liste des noms de domaine que je possède et leur usage actuel ou pré
 - [ ] Bot Twitch (en cours node,express/Sveltekit)
 - [ ] Bot Discord
 - [ ] Jeux farming ( Actuellement 1 semaine sans électricité, 1 semaine de dev décalé pour finalisé le projet)
+- [ ] Blender
+- [ ] aseprite
 
 ---
 
