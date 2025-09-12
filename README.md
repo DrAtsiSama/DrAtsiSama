@@ -25,6 +25,22 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 
 ---
 
+### 🎓 Diplômes & Formations
+- DUT Informatique  
+- Licence 3 Pro Web & Mobile
+- Licence 3 Informatique Général
+- Mastère Ingénieurie du Web
+- Formation connaissances :**Directeur Artistique** 
+
+---
+
+### 🚗 Permis & Certifications
+- Permis voiture (B)  
+- Permis bateau côtier  
+
+
+---
+
 ### 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scherierremy)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/synesios_alchimiste/)  
