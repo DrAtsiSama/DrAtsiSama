@@ -30,6 +30,7 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 - Licence 3 Pro Web & Mobile
 - Licence 3 Informatique Général
 - Mastère Ingénieurie du Web
+- BAFA
 - Formation connaissances :**Directeur Artistique** 
 
 ---
