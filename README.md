@@ -38,8 +38,8 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 ---
 
 ### 🚗 Permis & Certifications
-- Permis voiture (B)  
-- Permis bateau côtier  
+- Permis voiture (B)
+- Permis bateau côtier
 
 
 ---
