@@ -21,7 +21,7 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 ### 🌍 Mes noms de domaine
 | Nom de domaine | Usage | Statut |
 |----------------|-------|--------|
-| [picopuworld.com](http://picopuworld.com) | Projets, jeux et expérimentations | innactif |
+| [picopuworld.com](http://picopuworld.com) | Projets, jeux et expérimentations | inactif |
 | [remyscherier.com](http://remyscherier.com:3000/) | Portfolio personnel | ✅ Actif |
 
 ---
