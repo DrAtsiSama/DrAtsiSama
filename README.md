@@ -11,7 +11,7 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 
 ---   
 
-### 👤 À propos de moi
+### 👤 À propos
 🎓 **Étudiant en dernière année d’ingénierie informatique**
 🎲 **Animateur BAFA** pendant les vacances scolaires
 💻 Développeur fullstack curieux, touche-à-tout, et passionné par les jeux vidéo, l’IA et les projets créatifs.
