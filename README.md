@@ -5,10 +5,10 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
     <img src="https://komarev.com/ghpvc/?username=DarekaSama&style=plastic&color=blueviolet&label=Nombre+de+visite+du+profil+:" alt="DrAtsiSama">
   </p>
   <p align="left">   
-    <img src="https://profile-counter.glitch.me/{DarekaSama}/count.svg" alt="DrAtsiSama :: Visitor's Count">   
+    <img src="https://profile-counter.glitch.me/{DarekaSama}/count.svg" alt="DrAtsiSama :: Visitor's Count">
   </p>
-</p> 
- 
+</p>
+
 ---   
 
 ### 👤 À propos
