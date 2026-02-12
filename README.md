@@ -53,7 +53,7 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 
 ### 📌 Roadmap / TODO
 - [x] Portfolio en ligne  
-- [x] V0 Projet IA Twitch ( en cours)   
+- [x] V2 Projet IA Twitch ( en cours)   
 - [ ] Passer mes sites en HTTPS  
 - [ ] Créer un dossier des jeux réalisés et le remplir  
 - [ ] Pokedex Monster Hunter  
