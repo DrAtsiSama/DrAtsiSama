@@ -18,7 +18,7 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 
 ---
 
-### 🌍 Mes noms de domaine (En cours de réhabilitation -> en attente de l'opérateur pour le CG-NAT - lundi ?)
+### 🌍 Mes noms de domaine (En cours de réhabilitation -> en attente de l'opérateur pour le CG-NAT - mardi ?)
 | Nom de domaine | Usage | Statut |
 |----------------|-------|--------|
 | [picopuworld.com](http://picopuworld.com) | Projets, jeux et expérimentations |  inactif |
