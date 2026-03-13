@@ -20,7 +20,7 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 
 ---
 
-### 🌍 Mes noms de domaine (En cours de réhabilitation / base crée -> à enrichir / picopu -> chronology en cours / multi utilisateur ? )
+### 🌍 Mes noms de domaine (En cours de réhabilitation / base crée -> à enrichir / picopu -> chronology  / multi utilisateur ? )
 | Nom de domaine | Usage | Statut |
 |----------------|-------|--------|
 | [picopuworld.com](http://picopuworld.com) | Projets, jeux et expérimentations | ✅ Actif |
