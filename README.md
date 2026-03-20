@@ -23,7 +23,7 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 ### 🌍 Mes noms de domaine (En cours de réhabilitation / base crée -> à enrichir + chronique + lien & contenu / picopu -> chronology + atelier  / multi utilisateur + solo pour démarrer? / formation obligatoire FT 2 semaines . .)
 | Nom de domaine | Usage | Statut |
 |----------------|-------|--------|
-| [picopuworld.com](http://picopuworld.com) | Projets, jeux et expérimentations / Mon IA| ✅ Actif |
+| [picopuworld.com](http://picopuworld.com) | Projets, jeux et expérimentations ( Mon IA / chornique ) | ✅ Actif |
 | [remyscherier.com](http://remyscherier.com) | Portfolio personnel (Dev / Bafa / Todo ?) | ✅ Actif |
 
 ---
