@@ -32,7 +32,7 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 - DUT Informatique  
 - Licence 3 Pro Web & Mobile
 - Licence 3 Informatique Général
-- Mastère Ingénieurie du Web
+- Mastère Ingénieurie du Web (Titre)
 - BAFA
 - MOOC -SNCF 94%
 - Formation connaissances :**Directeur Artistique** 
