@@ -75,7 +75,7 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 | Java Spring, Node.js, Python, PHP, C++ | HTML5, CSS3, React, Angular | Spring Boot, Vue.js, DiscordJS | Unity, Unreal Engine, LÖVE, GameMaker Studio 2 |
 
 Autres outils :  
-Git · TypeScript · Dart · Android Studio · npm  
+Git · TypeScript · Dart · Android Studio · npm - Godot
 
 ---
 
