@@ -18,7 +18,7 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 
 🎲 **Animateur BAFA** pendant les vacances scolaires
 
-💻 Développeur fullstack curieux, touche-à-tout, et passionné par les jeux vidéo, l’IA et les projets créatifs.
+💻 Développeur fullstack, curieux, touche-à-tout, et passionné par les jeux vidéo, l’IA et les projets créatifs.
 
 ---
 
