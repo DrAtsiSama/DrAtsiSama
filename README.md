@@ -13,7 +13,7 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 
 ---
 
-### 👤 À propos
+### 👤 À propos de moi
 🎓 **Titulaire d'un titre d’ingénierie informatique**
 
 🎲 **Animateur BAFA** pendant les vacances scolaires
