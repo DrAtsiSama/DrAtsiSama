@@ -69,7 +69,7 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 
 ---
 
-### 🛠 Stack technique
+### 🛠 Stack technique (Dernières stacks)
 | **Back-end** | **Front-end** | **Frameworks** | **Game Engines** |
 |--------------|---------------|----------------|------------------|
 | Java Spring, Node.js, Python, PHP, C++ | HTML5, CSS3, React, Angular | Spring Boot, Vue.js, DiscordJS | Unity, Unreal Engine, LÖVE, GameMaker Studio 2 |
