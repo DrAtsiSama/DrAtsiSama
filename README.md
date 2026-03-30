@@ -30,7 +30,7 @@ Je me présente, je suis **__Dr_AtsiSama__** 🚀
 
 ---
 
-### 🎓 Diplômes & Formations Suivis
+### 🎓 Diplômes & Formations
 - DUT Informatique  
 - Licence 3 Pro Web & Mobile
 - Licence 3 Informatique Général
