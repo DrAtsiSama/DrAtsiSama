@@ -76,7 +76,7 @@ Je suis **Dr_AtsiSama** 🚀
 
 * [x] Portfolio
 * [x] IA Twitch
-* [ ] HTTPS sur mes sites
+* [x] HTTPS sur mes sites
 * [ ] Bot Twitch multi-chaînes
 * [ ] Bot Discord avancé
 * [ ] Jeu farming
