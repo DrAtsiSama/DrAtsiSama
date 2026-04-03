@@ -3,7 +3,7 @@
   <img src="https://github.com/DrAtsiSama/DrAtsiSama/blob/main/atsi.png" width="100%" />
 </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Salut!"> Bienvenue sur mon profil !
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Salut!"> Bienvenue à toi sur mon profil !
 
 
 
