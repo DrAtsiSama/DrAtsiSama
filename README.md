@@ -79,7 +79,7 @@ Je suis **Dr_AtsiSama** 🚀
 * [x] HTTPS sur mes sites
 * [ ] Bot Twitch multi-chaînes
 * [ ] Bot Discord avancé
-* [ ] Jeu farming
+* [x] Prototype Jeu farming
 * [ ] Blender + Pixel Art
 
 ---
