@@ -81,7 +81,7 @@ Je suis **Dr_AtsiSama** 🚀
 * [ ] Bot Discord avancé
 * [x] Prototype Jeu farming
 * [ ] Blender + Pixel Art
-* [ ] Stream tools
+* [ ] Stream tools (en cours)
 
 ---
 
