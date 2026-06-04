@@ -29,7 +29,7 @@ Je suis **Dr_AtsiSama** 🚀
 
 | 🌍 Projet                                   | 🚀 Description                 |
 | ------------------------------------------- | ------------------------------ |
-| [picopuworld.com](http://picopuworld.com)   | Expérimentations, IA, concepts |
+| [picopuworld.com](http://picopuworld.com)   | Expérimentations, IA, concepts / Stream Tools|
 | [remyscherier.com](http://remyscherier.com) | Portfolio dev & animation      |
 
 ---
