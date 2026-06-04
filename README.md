@@ -77,7 +77,7 @@ Je suis **Dr_AtsiSama** 🚀
 * [x] Portfolio
 * [x] IA Twitch
 * [x] HTTPS sur mes sites
-* [ ] Mettre RAM dans NAS
+* [ ] Ajout RAM au NAS
 * [ ] Bot Twitch multi-chaînes
 * [ ] Bot Discord avancé
 * [x] Prototype Jeu farming
