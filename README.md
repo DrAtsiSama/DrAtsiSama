@@ -85,7 +85,27 @@ Je suis **Dr_AtsiSama** 🚀
 * [ ] Stream tools (en cours)
 
 ---
+### Atsi AI Hub — Plateforme multi-agents IA
 
+**Projet personnel | Full Stack • IA • DevOps • Self-hosting**
+
+Conception et développement d'une plateforme d'orchestration d'agents IA autonomes, hébergée sur une infrastructure NAS Synology.
+
+L'objectif est de faire collaborer plusieurs agents spécialisés pour automatiser des tâches concrètes : veille et analyse d'offres d'emploi, assistance aux candidatures, documentation technique et maintenance d'un portfolio.
+
+**Stack technique :** Angular, NestJS, TypeScript, PostgreSQL, Docker, Redis et LangGraph.
+
+**Axes techniques :**
+- Architecture modulaire et orchestration multi-agents.
+- Exécution asynchrone et communication entre services.
+- Supervision, traçabilité et gestion des ressources.
+- Sécurisation des accès et validation humaine.
+- Déploiement et CI/CD sur une infrastructure auto-hébergée.
+
+**État :** conception de la V0.1.
+
+[Découvrir le projet](LIEN_DU_DEPOT_A_AJOUTER)
+---
 ## 📬 Me contacter
 
 <p align="center">
