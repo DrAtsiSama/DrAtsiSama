@@ -75,6 +75,7 @@ Je suis **Dr_AtsiSama** 🚀
 ## 📌 Roadmap
 
 * [x] Portfolio
+* [ ] Plateforme multi-agents IA
 * [x] IA Twitch
 * [x] HTTPS sur mes sites
 * [x] Ajout RAM au NAS
