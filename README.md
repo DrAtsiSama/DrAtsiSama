@@ -21,7 +21,7 @@ Je suis **Dr_AtsiSama** 🚀
 * 🎓 Ingénieurie informatique
 * 💻 Passionné par le dev, l’IA et les projets créatifs
 * 🎮 Fan de jeux vidéo & systèmes interactifs
-* 🎲 Animateur BAFA (gestion de groupes & créativité)
+* 🎲 Animateur BAFA / BAFD (gestion de groupes & créativité)
 
 ---
 
