@@ -8,7 +8,7 @@
 
 
 Je suis **Dr_AtsiSama** 🚀
-💻 Développeur Fullstack | 🎮 Créateur de projets | 🎲 Animateur BAFA / BAFD (en cours)
+💻 Développeur Fullstack | 🎮 Créateur de projets | 🎲 Animateur BAFA / BAFD (en cours : phase 1 ok)
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=DarekaSama&style=for-the-badge&color=blueviolet&label=Nombre+de+visite+du+profil+:" alt="DrAtsiSama">
