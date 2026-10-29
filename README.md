@@ -104,7 +104,7 @@ L'objectif est de faire collaborer plusieurs agents spécialisés pour automatis
 - Sécurisation des accès et validation humaine.
 - Déploiement et CI/CD sur une infrastructure auto-hébergée.
 
-**État :** conception de la V0.1.
+**État :** conception de la V0.2.
 
 [Découvrir le projet](LIEN_DU_DEPOT_A_AJOUTER)
 ---
