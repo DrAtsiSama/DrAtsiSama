@@ -76,7 +76,7 @@ Je suis **Dr_AtsiSama** 🚀
 
 * [x] Portfolio
 * [ ] BAFD
-* [ ] Plateforme multi-agents IA
+* [ ] Plateforme multi-agents IA (V0.2 6/8)
 * [x] IA Twitch
 * [x] HTTPS sur mes sites
 * [x] Ajout RAM au NAS
